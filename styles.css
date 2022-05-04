@@ -1,0 +1,29 @@
+
+img{
+    width: 94%;
+   height: 60vh;
+}
+.container li{
+  margin-top: 2em;
+ margin-left: 5%;
+}
+.m-l-50{
+    margin-left: 38%;
+}
+.opacity{
+    opacity: 0.5;
+}
+.d-flex{
+    display: flex;
+}
+button{
+    border: 0px;
+    background-color: none;
+    outline: none;
+    cursor: pointer;
+    opacity: 0.5;
+    
+}
+button:hover{
+    opacity: 1;
+}
